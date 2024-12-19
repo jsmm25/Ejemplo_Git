@@ -1,3 +1,4 @@
+#ejemplo de libreria rx
 from rx import from_iterable
 from rx.operators import filter, map
 

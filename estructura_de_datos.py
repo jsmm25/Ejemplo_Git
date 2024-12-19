@@ -1,3 +1,4 @@
+#ejemplo de estructura de datos
 estudiantes = [
     {"nombre": "Angel", "calificaciones": {"Programacion": 90, "Interfacez": 85, "Estadistica": 88}},
     {"nombre": "Diego", "calificaciones": {"Programacion": 75, "Interfacez": 92, "Estadistica": 80}},

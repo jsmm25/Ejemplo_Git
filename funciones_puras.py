@@ -1,3 +1,4 @@
+#ejemplo de funciones puras
 def duplicar_numeros(lista):
     return [x * 2 for x in lista]
 
